@@ -1,0 +1,4 @@
+
+
+                       term  ::=  argument<NO_WHITESPACE>( "^" | "_" )<NO_WHITESPACE>argument ;
+
